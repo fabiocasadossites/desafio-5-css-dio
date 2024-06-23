@@ -10,4 +10,4 @@ Neste projeto, eu criei um clone do site da HBO Max, aplicando animações usand
 - Animações CSS
 
 ### Para ver a página
-[Link do projeto]()
+[Link do projeto](https://fabiocasadossites.github.io/desafio-5-css-dio/)
